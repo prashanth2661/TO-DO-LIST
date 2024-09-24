@@ -5,9 +5,13 @@ This is a simple command-line To-Do List application written in Python. It allow
 # Features
 
 Add Task: Add a new task with a title and description.
+
 View Tasks: View all tasks with their status (Pending/Completed).
+
 Update Task: Update the title and description of an existing task.
+
 Delete Task: Delete a task from the list.
+
 Mark Task as Completed: Mark a task as completed.
 
 Follow the on-screen instructions to add, view, update, delete, or mark tasks as completed.
